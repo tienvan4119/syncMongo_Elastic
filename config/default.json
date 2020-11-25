@@ -3,20 +3,20 @@
         "url":"http://localhost:",
         "port":"9200",
         "elasticsearchIndices": {
-            "COMPANY": {
-              "index":"company",
-              "type":"COMPANY",
-              "collectionName":"company"
+            "PROPERTY": {
+              "index":"posts",
+              "type":"POSTS",
+              "collectionName":"posts"
             }
         }
     },
     "mongodb": {
-      "url": "mongodb://",
+      "url": "mongodb+srv://admin:9ZdTOTBUWSMRXQrA@cluster0.tnmrd.mongodb.net/test",
       "username":"",
       "password":"",
       "server_ip":"137.71.42.119",
       "local_server_ip":"localhost",
       "port":"27017",
-      "databaseName":"mongodbTutorial"
+      "databaseName":"TravelComment"
     }
 }
