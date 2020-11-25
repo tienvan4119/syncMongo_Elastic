@@ -4,9 +4,9 @@
         "port":"9200",
         "elasticsearchIndices": {
             "PROPERTY": {
-              "index":"comments",
-              "type":"COMMENTS",
-              "collectionName":"comments"
+              "index":"destinations",
+              "type":"DESTINATIONS",
+              "collectionName":"destinations"
             }
         }
     },
