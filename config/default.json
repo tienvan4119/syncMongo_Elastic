@@ -12,11 +12,7 @@
     },
     "mongodb": {
       "url": "mongodb+srv://admin:rtv8fGjQwdd239ph@cluster0.tnmrd.mongodb.net/TravelComment?retryWrites=true&w=majority",
-      "username":"",
-      "password":"",
-      "server_ip":"137.71.42.119",
-      "local_server_ip":"localhost",
-      "port":"27017",
+     
       "databaseName":"TravelComment"
     }
 }
