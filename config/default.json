@@ -4,15 +4,16 @@
         "port":"9200",
         "elasticsearchIndices": {
             "PROPERTY": {
-              "index":"posts",
-              "type":"POSTS",
-              "collectionName":"posts"
+              "index":"destinations",
+              "type":"DESTINATIONS",
+              "collectionName":"destinations"
             }
         }
     },
     "mongodb": {
-      "url": "mongodb+srv://admin:rtv8fGjQwdd239ph@cluster0.tnmrd.mongodb.net/TravelComment?retryWrites=true&w=majority",
+      "url": "mongodb+srv://admin:rtv8fGjQwdd239ph@cluster0.tnmrd.mongodb.net/NCKH?retryWrites=true&w=majority",
      
-      "databaseName":"TravelComment"
+      "databaseName":"NCKH"
+ 
     }
 }
