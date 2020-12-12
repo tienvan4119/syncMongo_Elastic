@@ -4,9 +4,9 @@
         "port":"9200",
         "elasticsearchIndices": {
             "PROPERTY": {
-              "index":"keyphrases",
-              "type":"KEYPHRASES",
-              "collectionName":"keyphrases"
+              "index":"posts",
+              "type":"POSTS",
+              "collectionName":"posts"
             }
         }
     },
