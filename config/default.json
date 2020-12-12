@@ -4,9 +4,9 @@
         "port":"9200",
         "elasticsearchIndices": {
             "PROPERTY": {
-              "index":"keyphrases",
-              "type":"KEYPHRASES",
-              "collectionName":"keyphrases"
+              "index":"destinations",
+              "type":"DESTINATIONS",
+              "collectionName":"destinations"
             }
         }
     },
