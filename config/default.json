@@ -6,7 +6,7 @@
             "PROPERTY": {
               "index":"keyphrases",
               "type":"KEYPHRASES",
-              "collectionName":"keyphrase"
+              "collectionName":"keyphrases"
             }
         }
     },
